@@ -30,6 +30,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 9. **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
 
+10. **Valid Parentheses** - The basic idea is to create a method that takes a string as input, and returns a boolean. True if the parentheses in the string are valid, false if not. E.g. () is valid. )( is not.
+
 ### Programs
 
 1. **Lumberjack Pile Problem** - Help the lumberjacks stack their logs!
